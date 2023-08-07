@@ -35,7 +35,7 @@ A ReactJS project created with Vite.
 - Styled Components
 ## Usage Tips
 
-- [Workflow](https://github.com/gponte7/coffee-delivery#workflow)
+- [Workflow](/workflow)
 - [Increment or Decrement coffee's quantity](https://github.com/gponte7/coffee-delivery#quantity)
 - [Ways to open the cart](https://github.com/gponte7/coffee-delivery#openCart)
 - [Filling the address](https://github.com/gponte7/coffee-delivery#address)
