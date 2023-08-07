@@ -38,7 +38,7 @@ A ReactJS project created with Vite.
 - [Workflow](#workflow)
 - [Increment or Decrement coffee's quantity](#quantity)
 - [Ways to open the cart](#openCart)
-- [Filling the address](https://github.com/gponte7/coffee-delivery#address)
+- [Filling the address](#address)
 ### Workflow
 
 ![Workflow](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/siteWorkflow.gif)
