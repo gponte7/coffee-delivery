@@ -39,6 +39,7 @@ A ReactJS project created with Vite.
 - [Increment or Decrement coffee's quantity](#increment-or-decrement-coffees-quantity)
 - [Ways to open the cart](#ways-to-open-the-cart)
 - [Filling the address](#filling-the-address)
+- [Selecting Payment Method](#selecting-payment-method)
 ### Workflow
 
 ![Workflow](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/siteWorkflow.gif)
@@ -53,4 +54,8 @@ A ReactJS project created with Vite.
 ### Filling the address
 
 ![Filling the address](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addressFill.gif)
+### Selecting Payment Method
+
+![Selecting Payment Method](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/payment.gif)
+
 ## Contact
