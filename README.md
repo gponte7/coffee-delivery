@@ -9,10 +9,11 @@ By Guilherme Ponte
 
 ## Referencies
 
- - [About the Project](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Backend](https://github.com/matiassingers/awesome-readme)
- - [Frontend](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [About the Project](#about-the-project)
+ - [Backend](#backend)
+ - [Frontend](#frontend)
 
+## About the Project
 
 A coffee e-commerce that gives you the possibility to select how many of your favorities coffees you want wherever you are.
 ## Backend
