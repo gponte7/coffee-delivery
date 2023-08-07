@@ -13,6 +13,7 @@ By Guilherme Ponte
  - [Backend](#backend)
  - [Frontend](#frontend)
  - [Technologies](#-some-technologies-used)
+ - [Contact](#contact)
 
 ## About the Project
 
