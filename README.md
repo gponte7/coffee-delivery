@@ -36,21 +36,21 @@ A ReactJS project created with Vite.
 ## Usage Tips
 
 - [Workflow](#workflow)
-- [Increment or Decrement coffee's quantity](https://github.com/gponte7/coffee-delivery#quantity)
-- [Ways to open the cart](https://github.com/gponte7/coffee-delivery#openCart)
+- [Increment or Decrement coffee's quantity](#quantity)
+- [Ways to open the cart](#openCart)
 - [Filling the address](https://github.com/gponte7/coffee-delivery#address)
 ### Workflow
 
 ![Workflow](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/siteWorkflow.gif)
 ### Increment or Decrement coffee's quantity
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndRemovingFromCart.gif)
+![Quantity](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndRemovingFromCart.gif)
 ### Ways to open the cart
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndShowingCart1.gif)
+![OpenCart](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndShowingCart1.gif)
 
 ![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndShowingCart2.gif)
 ### Filling the address
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addressFill.gif)
+![Address](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addressFill.gif)
 ## Contact
