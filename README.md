@@ -35,22 +35,22 @@ A ReactJS project created with Vite.
 - Styled Components
 ## Usage Tips
 
-- [Workflow](https://github.com/gponte7/coffee-delivery#workflow)
-- [Increment or Decrement coffee's quantity](https://github.com/gponte7/coffee-delivery#quantity)
-- [Ways to open the cart](https://github.com/gponte7/coffee-delivery#openCart)
-- [Filling the address](https://github.com/gponte7/coffee-delivery#address)
-### [Workflow](/workflow)
+- [Workflow](#workflow)
+- [Increment or Decrement coffee's quantity](#increment-or-decrement-coffees-quantity)
+- [Ways to open the cart](#ways-to-open-the-cart)
+- [Filling the address](#filling-the-address)
+### Workflow
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/siteWorkflow.gif)
+![Workflow](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/siteWorkflow.gif)
 ### Increment or Decrement coffee's quantity
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndRemovingFromCart.gif)
+![Increment or Decrement coffee's quantity](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndRemovingFromCart.gif)
 ### Ways to open the cart
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndShowingCart1.gif)
+![Ways to open the cart](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndShowingCart1.gif)
 
 ![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addingAndShowingCart2.gif)
 ### Filling the address
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addressFill.gif)
+![Filling the address](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addressFill.gif)
 ## Contact
