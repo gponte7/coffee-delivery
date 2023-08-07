@@ -2,12 +2,12 @@
   <a href="https://github.com/gponte7/coffee-delivery">
     <img src="https://github.com/gponte7/coffee-delivery/blob/master/assets/homeScreen.PNG" alt="Logo">
   </a>
-
+  <h1 align="center">Coffee Delivery</h1>
   <h3 align="center">By Guilherme Ponte</h3>
 </p>
 
 
-## Referencies
+## References
 
  - [About the Project](#about-the-project)
  - [Backend](#backend)
@@ -65,4 +65,4 @@ A ReactJS project created with Vite.
 
 :link: [LinkedIn](https://www.linkedin.com/in/guilhermeponte7/)
 
-### [Back to Top](#referencies)
+### [Back to Top](#references)
