@@ -1,5 +1,5 @@
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/homeScreen.PNG)
+![home](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/homeScreen.PNG)
 # Coffee Delivery
 
 By Guilherme Ponte
@@ -65,4 +65,4 @@ A ReactJS project created with Vite.
 
 :link: [LinkedIn](https://www.linkedin.com/in/guilhermeponte7/)
 
-### [Back to Top](#coffee-delivery)
+### [Back to Top](#home)
