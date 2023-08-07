@@ -1,10 +1,10 @@
+<p align="center">
+  <a href="https://github.com/gponte7/coffee-delivery">
+    <img src="[https://github.com/Dtesch9/your-city-forum/blob/master/assets/signup-screen-your-city-forum.png](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/homeScreen.PNG)" alt="Logo">
+  </a>
 
-![home](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/homeScreen.PNG)
-# Coffee Delivery
-
-By Guilherme Ponte
-
-
+  <h3 align="center">By Guilherme Ponte</h3>
+</p>
 
 
 ## Referencies
