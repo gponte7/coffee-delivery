@@ -59,3 +59,5 @@ A ReactJS project created with Vite.
 ![Selecting Payment Method](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/payment.gif)
 
 ## Contact
+
+:link: [LinkedIn](https://www.linkedin.com/in/guilhermeponte7/)
