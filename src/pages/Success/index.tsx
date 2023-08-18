@@ -2,8 +2,6 @@ import { useContext } from 'react'
 
 import { CheckoutContext } from '../../contexts/CheckoutContext'
 
-import { Header } from '../../components/Header'
-
 import {
   Container,
   DeliveryInfoBox,
@@ -22,7 +20,6 @@ export function Success() {
 
   return (
     <>
-      <Header />
       <Container>
         <DeliveryInfoContainer>
           <div>

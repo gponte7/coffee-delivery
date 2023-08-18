@@ -4,7 +4,6 @@ import { api } from '../../lib/axios'
 
 import { CheckoutContext } from '../../contexts/CheckoutContext'
 
-import { Header } from '../../components/Header'
 import { CoffeeCard } from '../../components/CoffeeCard'
 
 import {
@@ -38,8 +37,6 @@ export function Home() {
 
   return (
     <Container>
-      <Header />
-
       <IntroContainer>
         <TitleContainer>
           <h1>Encontre o café perfeito para qualquer hora do dia</h1>

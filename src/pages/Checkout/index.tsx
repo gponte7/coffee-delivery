@@ -14,7 +14,6 @@ import {
 } from '../../contexts/CheckoutContext'
 
 import { CartCoffeeCard } from '../../components/CartCoffeeCard'
-import { Header } from '../../components/Header'
 
 import {
   AddressAndPaymentContainer,
@@ -136,8 +135,6 @@ export function Checkout() {
 
   return (
     <Container onSubmit={handleSubmit(handleCheckoutSubmit)}>
-      <Header />
-
       <OrderAndCartContainer>
         <AddressAndPaymentContainer>
           <BoxTitles>Complete seu pedido</BoxTitles>
