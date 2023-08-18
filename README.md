@@ -1,18 +1,21 @@
+<p align="center">
+  <a href="https://github.com/gponte7/coffee-delivery">
+    <img src="https://github.com/gponte7/coffee-delivery/blob/master/assets/homeScreen.PNG" alt="Logo">
+  </a>
+  <h1 align="center">Coffee Delivery</h1>
+  <h3 align="center">By Guilherme Ponte</h3>
+</p>
 
-![App Screenshot](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/homeScreen.PNG)
-# Coffee Delivery
 
-By Guilherme Ponte
+## References
 
+ - [About the Project](#about-the-project)
+ - [Backend](#backend)
+ - [Frontend](#frontend)
+ - [Technologies](#-some-technologies-used)
+ - [Contact](#contact)
 
-
-
-## Referencies
-
- - [About the Project](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Backend](https://github.com/matiassingers/awesome-readme)
- - [Frontend](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+## About the Project
 
 A coffee e-commerce that gives you the possibility to select how many of your favorities coffees you want wherever you are.
 ## Backend
@@ -39,6 +42,7 @@ A ReactJS project created with Vite.
 - [Increment or Decrement coffee's quantity](#increment-or-decrement-coffees-quantity)
 - [Ways to open the cart](#ways-to-open-the-cart)
 - [Filling the address](#filling-the-address)
+- [Selecting Payment Method](#selecting-payment-method)
 ### Workflow
 
 ![Workflow](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/siteWorkflow.gif)
@@ -53,4 +57,12 @@ A ReactJS project created with Vite.
 ### Filling the address
 
 ![Filling the address](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/addressFill.gif)
+### Selecting Payment Method
+
+![Selecting Payment Method](https://raw.githubusercontent.com/gponte7/coffee-delivery/master/assets/payment.gif)
+
 ## Contact
+
+:link: [LinkedIn](https://www.linkedin.com/in/guilhermeponte7/)
+
+### [Back to Top](#references)
