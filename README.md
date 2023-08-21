@@ -17,7 +17,7 @@
 
 ## About the Project
 
-A coffee e-commerce that gives you the possibility to select how many of your favorities coffees you want wherever you are.
+Coffee Delivery is a coffee e-commerce that gives you the possibility to select how many of your favorities coffees you want wherever you are.
 ## Backend
 
 A Rest API using JSON Server with Axios to get all informations about the coffees.
